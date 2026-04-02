@@ -1,4 +1,1 @@
-Hello Git Day 1
-Second line
-Third line
-
+change from teammate (remote conflict simulation)
